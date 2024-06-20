@@ -5,11 +5,3 @@ on this their chosen battle field
 
 Form the lines
 Shield by shield
-
-some content
-<<<<<<< HEAD
-=======
-and here
-some content
->>>>>>> feater
-and here
